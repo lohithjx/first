@@ -7,7 +7,7 @@ import Clock from "../components/Clock";
 import Counter from "../components/Counter";
 import Submit from "../components/Submit";
 import PostList, { QUERY, allPostsQueryVars } from "../components/First";
-import First from "../components/first";
+import First from "../components/First";
 
 const IndexPage = () => {
 	// Tick the time every second
