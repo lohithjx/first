@@ -8,7 +8,7 @@ export const QUERY = gql`
 			ProductName
 			ProductImageLink
 			Id
-			Categoryy
+			Category
 		}
 	}
 `;
