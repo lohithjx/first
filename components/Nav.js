@@ -9,12 +9,6 @@ export default function Nav() {
 			<Link href="/">
 				<a className={pathname === "/" ? "is-active" : ""}>Home</a>
 			</Link>
-			{/* <Link href="/apollo">
-        <a className={pathname === '/apollo' ? 'is-active' : ''}>Apollo</a>
-      </Link>
-      <Link href="/redux">
-        <a className={pathname === '/redux' ? 'is-active' : ''}>Redux</a>
-      </Link> */}
 			<style jsx>{`
 				header {
 					margin-bottom: 25px;
